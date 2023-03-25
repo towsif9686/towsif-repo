@@ -5,6 +5,7 @@
   <version>1.0.0</version>
   <packaging>war</packaging>
   <name>WAR Web Project</name>
+  <!--demo on github webhooks-->
   <description>A very simple Maven-enabled WAR web project</description>
   <dependencies>
   	<dependency>
